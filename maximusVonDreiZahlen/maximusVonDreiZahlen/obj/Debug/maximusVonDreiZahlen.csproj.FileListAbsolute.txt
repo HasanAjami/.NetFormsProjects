@@ -1,0 +1,10 @@
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\bin\Debug\maximusVonDreiZahlen.exe.config
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\bin\Debug\maximusVonDreiZahlen.exe
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\bin\Debug\maximusVonDreiZahlen.pdb
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\obj\Debug\maximusVonDreiZahlen.csproj.AssemblyReference.cache
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\obj\Debug\maximusVonDreiZahlen.Form1.resources
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\obj\Debug\maximusVonDreiZahlen.Properties.Resources.resources
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\obj\Debug\maximusVonDreiZahlen.csproj.GenerateResource.cache
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\obj\Debug\maximusVonDreiZahlen.csproj.CoreCompileInputs.cache
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\obj\Debug\maximusVonDreiZahlen.exe
+D:\Applications\csForms\maximusVonDreiZahlen\maximusVonDreiZahlen\obj\Debug\maximusVonDreiZahlen.pdb

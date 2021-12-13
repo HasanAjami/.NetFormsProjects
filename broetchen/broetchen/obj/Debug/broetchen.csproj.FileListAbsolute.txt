@@ -1,0 +1,9 @@
+D:\Applications\csForms\broetchen\broetchen\bin\Debug\broetchen.exe.config
+D:\Applications\csForms\broetchen\broetchen\bin\Debug\broetchen.exe
+D:\Applications\csForms\broetchen\broetchen\bin\Debug\broetchen.pdb
+D:\Applications\csForms\broetchen\broetchen\obj\Debug\broetchen.Form1.resources
+D:\Applications\csForms\broetchen\broetchen\obj\Debug\broetchen.Properties.Resources.resources
+D:\Applications\csForms\broetchen\broetchen\obj\Debug\broetchen.csproj.GenerateResource.cache
+D:\Applications\csForms\broetchen\broetchen\obj\Debug\broetchen.csproj.CoreCompileInputs.cache
+D:\Applications\csForms\broetchen\broetchen\obj\Debug\broetchen.exe
+D:\Applications\csForms\broetchen\broetchen\obj\Debug\broetchen.pdb

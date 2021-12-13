@@ -1,0 +1,10 @@
+D:\Applications\csForms\TestAufgabe\TestAufgabe\bin\Debug\TestAufgabe.exe.config
+D:\Applications\csForms\TestAufgabe\TestAufgabe\bin\Debug\TestAufgabe.exe
+D:\Applications\csForms\TestAufgabe\TestAufgabe\bin\Debug\TestAufgabe.pdb
+D:\Applications\csForms\TestAufgabe\TestAufgabe\obj\Debug\TestAufgabe.csproj.AssemblyReference.cache
+D:\Applications\csForms\TestAufgabe\TestAufgabe\obj\Debug\TestAufgabe.Form1.resources
+D:\Applications\csForms\TestAufgabe\TestAufgabe\obj\Debug\TestAufgabe.Properties.Resources.resources
+D:\Applications\csForms\TestAufgabe\TestAufgabe\obj\Debug\TestAufgabe.csproj.GenerateResource.cache
+D:\Applications\csForms\TestAufgabe\TestAufgabe\obj\Debug\TestAufgabe.csproj.CoreCompileInputs.cache
+D:\Applications\csForms\TestAufgabe\TestAufgabe\obj\Debug\TestAufgabe.exe
+D:\Applications\csForms\TestAufgabe\TestAufgabe\obj\Debug\TestAufgabe.pdb

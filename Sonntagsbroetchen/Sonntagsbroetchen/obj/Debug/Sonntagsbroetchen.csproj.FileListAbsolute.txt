@@ -1,0 +1,10 @@
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\bin\Debug\Sonntagsbroetchen.exe.config
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\bin\Debug\Sonntagsbroetchen.exe
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\bin\Debug\Sonntagsbroetchen.pdb
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\obj\Debug\Sonntagsbroetchen.csproj.AssemblyReference.cache
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\obj\Debug\Sonntagsbroetchen.Form1.resources
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\obj\Debug\Sonntagsbroetchen.Properties.Resources.resources
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\obj\Debug\Sonntagsbroetchen.csproj.GenerateResource.cache
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\obj\Debug\Sonntagsbroetchen.csproj.CoreCompileInputs.cache
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\obj\Debug\Sonntagsbroetchen.exe
+D:\Applications\csForms\Sonntagsbroetchen\Sonntagsbroetchen\obj\Debug\Sonntagsbroetchen.pdb

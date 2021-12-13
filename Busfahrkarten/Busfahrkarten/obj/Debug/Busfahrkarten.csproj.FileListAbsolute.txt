@@ -1,0 +1,10 @@
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\bin\Debug\Busfahrkarten.exe.config
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\bin\Debug\Busfahrkarten.exe
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\bin\Debug\Busfahrkarten.pdb
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\obj\Debug\Busfahrkarten.csproj.AssemblyReference.cache
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\obj\Debug\Busfahrkarten.Form1.resources
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\obj\Debug\Busfahrkarten.Properties.Resources.resources
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\obj\Debug\Busfahrkarten.csproj.GenerateResource.cache
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\obj\Debug\Busfahrkarten.csproj.CoreCompileInputs.cache
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\obj\Debug\Busfahrkarten.exe
+D:\Applications\csForms\Busfahrkarten\Busfahrkarten\obj\Debug\Busfahrkarten.pdb
